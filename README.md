@@ -56,10 +56,6 @@ Beyond development, I love **mentoring and teaching young people in tech how to 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -72,11 +68,13 @@ Beyond development, I love **mentoring and teaching young people in tech how to 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyzeah-achungha-2b6253239/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AchunghaH)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hyzealachungha)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyzeala28@gmail.com)
 
 </div>
+
 
 ---
 
@@ -90,29 +88,12 @@ Beyond development, I love **mentoring and teaching young people in tech how to 
 
 ## ✨ My GitHub Stats
 
-<div align="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gemgeek&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=BB86FC&icon_color=03DAC6&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyzeahAchungha&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=BB86FC&icon_color=03DAC6&text_color=FFFFFF)](https://github.com/HyzeahAchungha)
+### 💻 Most Used Languages
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemgeek&layout=compact&theme=dark&title_color=BB86FC&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
----
+### 🏆 GitHub Trophies
 
-## 💻 Most Used Languages
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyzeahAchungha&layout=compact&theme=dark&title_color=BB86FC&text_color=FFFFFF)](https://github.com/HyzeahAchungha)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HyzeahAchungha&theme=onedark&title_color=BB86FC&text_color=FFFFFF&icon_color=03DAC6&border_color=transparent&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=gemgeek&theme=onedark&title_color=BB86FC&text_color=FFFFFF&icon_color=03DAC6&border_color=transparent&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
