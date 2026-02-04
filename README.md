@@ -7,7 +7,7 @@
   />
 
   <!-- Glowing Divider / Snake -->
-  <img src="https://github.com/HyzeahAchungha/HyzeahAchungha/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 
 </div>
 
