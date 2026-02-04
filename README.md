@@ -84,18 +84,4 @@ Beyond development, I love **mentoring and teaching young people in tech how to 
 
 </div>
 
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gemgeek&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=BB86FC&icon_color=03DAC6&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-
-### 💻 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemgeek&layout=compact&theme=dark&title_color=BB86FC&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gemgeek&theme=onedark&title_color=BB86FC&text_color=FFFFFF&icon_color=03DAC6&border_color=transparent&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## DailyDev Achievement 🎖️
-<a href="https://app.daily.dev/matildaesenamgbeve"><img src="https://api.daily.dev/devcards/v2/MA1B2o3ckMjPkKaX5wFQh.png?type=default&r=bsj" width="356" alt="Matilda Esenam Gbeve's Dev Card"/></a>
 
